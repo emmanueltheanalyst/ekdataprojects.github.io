@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The "You Are What You Eat" Customer Segmentation
+title: The "You Are What You Eat" Customer Segmentation(K-Means Clustering)
 image: "/posts/clustering-title-img.png"
 tags: [Customer Segmentation, Machine Learning, Clustering, Python]
 ---
