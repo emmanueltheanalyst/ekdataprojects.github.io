@@ -6,3 +6,4 @@ tags: [Tableau, Data Viz]
 ---
 This is a Tableau Dashboard that tracks global Earthquake activity across a 30-day period
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/EarthquakeDashboard_17034694540100/EarthquakeTracker" width = '1090' height = '900'></iframe>
+View the tableau dashboard [here](https://public.tableau.com/app/profile/emmanuel.kanati/viz/EarthquakeDashboard_17034694540100/EarthquakeTracker).
